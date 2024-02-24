@@ -3,6 +3,10 @@ ansible 6th session loops
 loops: time 1 min
 -----------
 -->when you want to run a module inside a playbook n number of times you can go with loops concept
+```python
+def greet(name):
+    print("Hello, " + name + "!")```
+
 ---------------------
 ========================
 ---
