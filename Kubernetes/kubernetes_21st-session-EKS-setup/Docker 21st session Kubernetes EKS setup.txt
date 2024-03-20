@@ -1,5 +1,7 @@
 Docker 21st session Kubernetes EKS setup 1:00 min to 33:00 min
 ------------------------------------------
+#AWS configure, on EC2
+
 1.first launch ec2 machine with name (eksServer)
 2.create IAM role with AdministratorAccess link with eksServer
 -----------
